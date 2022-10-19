@@ -1,2 +1,1 @@
-# Pagination
-Created with CodeSandbox
+# PaginationReactJS
